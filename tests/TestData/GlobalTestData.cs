@@ -1,4 +1,4 @@
-﻿namespace PortfolioManager.StockIndicators.Tests.Unit.TestData;
+﻿namespace StockIndicators.Tests.Unit.TestData;
 
 public class GlobalTestData
 {

@@ -1,4 +1,4 @@
-﻿namespace PortfolioManager.StockIndicators.Tests.Unit.CalculationsTests;
+﻿namespace StockIndicators.Tests.Unit.CalculationsTests;
 
 public sealed class VolatilityTests
 {

@@ -1,4 +1,4 @@
-namespace PortfolioManager.StockIndicators;
+namespace StockIndicators;
 
 public static partial class Calculations
 {
